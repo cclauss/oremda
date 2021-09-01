@@ -22,6 +22,9 @@ directories=(
   ncem_reader
   plot
   subtract
+  tiff_reader
+  gaussian_blur
+  picture
 )
 
 if [ "$with_vis" == true ]; then
